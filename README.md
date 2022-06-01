@@ -1,4 +1,5 @@
-## This is the solution to a quest
+# WCS quest to learn dotenv
+## This is the solution to an exercise
 
 1. First download the zip file or clone the repository
 2. Then run `npm install`
